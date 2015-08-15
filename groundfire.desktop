@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Groundfire
+Comment=A 2D multiplayer tank game inspired by Death Tank for the Sega Saturn
+Exec=groundfire
+Icon=groundfire.png
+Terminal=false
+Categories=Game;ArcadeGame;
